@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jiohealth/static/css/main.367f98e1.css",
+    "main.css": "/jiohealth/static/css/main.ea7c76fc.css",
     "main.js": "/jiohealth/static/js/main.1bcd6cdd.js",
     "static/media/logo.png": "/jiohealth/static/media/logo.dc890f32ca83d15a3f00.png",
     "static/media/labTests.png": "/jiohealth/static/media/labTests.8ad006a502b6dcd69ebf.png",
@@ -16,11 +16,11 @@
     "static/media/ambulance.png": "/jiohealth/static/media/ambulance.c717c690a24c667be6e6.png",
     "static/media/fitness.png": "/jiohealth/static/media/fitness.c23869b7e554691b3c85.png",
     "index.html": "/jiohealth/index.html",
-    "main.367f98e1.css.map": "/jiohealth/static/css/main.367f98e1.css.map",
+    "main.ea7c76fc.css.map": "/jiohealth/static/css/main.ea7c76fc.css.map",
     "main.1bcd6cdd.js.map": "/jiohealth/static/js/main.1bcd6cdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.367f98e1.css",
+    "static/css/main.ea7c76fc.css",
     "static/js/main.1bcd6cdd.js"
   ]
 }
